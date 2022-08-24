@@ -4,7 +4,7 @@
 button changes text color
 ### App Walk-though
 
-<img src="https://imgur.com/a/ygpJuYE"width=200><br>
+<img src="https://imgur.com/a/ygpJuYE" width=200><br>
 
 
 ### Required User Stories
