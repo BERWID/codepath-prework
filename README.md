@@ -4,7 +4,7 @@
 button changes text color
 ### App Walk-though
 
-<img src="https://imgur.com/a/ygpJuYE" width=200><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ygpJuYE"  ><a href="//imgur.com/a/ygpJuYE">Prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
