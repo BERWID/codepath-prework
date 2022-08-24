@@ -4,8 +4,7 @@
 button changes text color
 ### App Walk-though
 
-<img src="https://imgur.com/a/ygpJuYE" width=200><br>
-
+![](https://i.imgur.com/mwncbqL.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
